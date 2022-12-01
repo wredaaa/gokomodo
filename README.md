@@ -1,3 +1,10 @@
+# Gokomodo Test 
+
+1. duplicate `.env.example` and rename `.env`
+2. run SQL Script
+3. run project
+4. username: `wredaaa@gmail.com` && password: `yusuf` (buyer)
+5. username: `yusuf@gmail.com` && password: `yusuf` (seller)
 
 ## API Reference Buyer
 
